@@ -1,0 +1,6 @@
+learner_id,team_id,role,certification,practice_score_avg,hours_studied,status
+L-1001,TEAM-A,Cloud Engineer,AZ-204,67,18,At Risk
+L-1002,TEAM-A,DevOps Engineer,AZ-400,82,24,Ready
+L-1003,TEAM-B,Data Engineer,DP-203,74,20,Nearly Ready
+L-1004,TEAM-B,Cloud Engineer,AZ-204,58,12,At Risk
+L-1005,TEAM-C,AI Engineer,AI-102,79,22,Ready

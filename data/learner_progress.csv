@@ -1,0 +1,6 @@
+learner_id,completed_modules,pending_modules,last_assessment_score,readiness_note
+L-1001,Azure Functions Basics; Storage Intro,Authentication; API Security,67,Needs focused practice before exam
+L-1002,CI/CD; GitHub Actions; Monitoring,Release Strategy,82,Ready for final mock test
+L-1003,Data Pipelines; SQL Basics,Monitoring; Data Lake,74,Close to readiness threshold
+L-1004,Storage Intro,Azure Functions; Authentication; API Security,58,High exam risk
+L-1005,Azure AI Services; Responsible AI,Prompt Flow Evaluation,79,Ready with light revision
