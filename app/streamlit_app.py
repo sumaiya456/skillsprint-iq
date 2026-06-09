@@ -15,12 +15,17 @@ st.write("A synthetic multi-agent certification readiness assistant for enterpri
 
 st.warning("Demo safety note: This app uses synthetic data only. No real employee, customer, company, or confidential data is included.")
 
-question = st.text_input("Ask SkillSprint IQ", value="Give manager readiness insight for TEAM-A")
+question = st.text_input(
+    "Ask SkillSprint IQ",
+    value="",
+    placeholder="Type your own question or choose one below"
+)
 
 examples = [
     "Give manager readiness insight for TEAM-A",
     "Create a study plan for learner L-1001",
     "What is the learning path for AZ-204 Cloud Engineer?",
+    "Generate practice assessment for learner L-1001",
     "Show readiness risk for TEAM-B",
 ]
 
