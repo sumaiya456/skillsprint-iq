@@ -64,7 +64,7 @@ The project demonstrates:
 | Learning Path Curator Agent | Maps learner role and certification target to required skills and recommended study hours |
 | Study Plan Generator Agent | Creates a realistic study plan using learner progress and workload signals |
 | Manager Insights Agent | Summarises team readiness, at-risk learners, and recommended manager action |
-| Assessment Agent | Planned extension for grounded practice questions |
+| Assessment Agent | Generates practice assessment questions and evaluates learner readiness using synthetic certification data |
 
 ---
 
